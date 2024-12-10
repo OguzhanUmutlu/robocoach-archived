@@ -1,6 +1,6 @@
 # robocoach
 Question generator and compiler
 
-[Preview](https://oguzhanumutlu.github.io/robocoach/)
+# This project is being rewritten from start in here: https://github.com/OguzhanUmutlu/askyourself
 
-# If you want to add new lessons just [create a pull request :p](https://github.com/OguzhanUmutlu/robocoach/pulls/)
+[Preview](https://oguzhanumutlu.github.io/robocoach/)
